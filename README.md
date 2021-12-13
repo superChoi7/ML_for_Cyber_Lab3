@@ -35,5 +35,5 @@ python myEval.py <path_data_cl> <path_data_bd> <path_model_b> <path_model_b_prim
 
 - `<path_data_cl>`: file path of clean dataset
 - `<path_data_bd>`: file path of backdoored dataset
-- `<path_model_b>`: file path of model_B
-- `<path_model_b_prime>`: file path of model_B_prime
+- `<path_model_b>`: file path of the BadNet
+- `<path_model_b_prime>`: file path of the pruned BadNet
