@@ -24,7 +24,7 @@
 ## Steps to execute
    1. Download the datasets from [here](https://drive.google.com/drive/folders/1Rs68uH8Xqa4j6UxG53wzD0uyI8347dSq?usp=sharing) and store them under `data/` directory.
    2. Follow the steps in [main.ipynb](https://github.com/superChoi7/ML_for_Cyber_Lab3/blob/main/main.ipynb) to execute the notebook.
-   3. You can find the pdf version of notebook [here](https://github.com/superChoi7/ML_for_Cyber_Lab3/blob/main/ML_Security_HW3.pdf).
+   3. You can find the pdf version of notebook [here](https://github.com/superChoi7/ML_for_Cyber_Lab3/blob/main/ML_Security_Report.pdf).
 
 ## Evaluation
 Run the script `myEval.py`:
